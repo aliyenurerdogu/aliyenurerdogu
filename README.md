@@ -40,7 +40,7 @@
   <a href="https://github.com/aliyenurerdogu" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
   </a>
-  <a href="https://www.instagram.com/aly.erdogp" target="_blank">
+  <a href="https://www.instagram.com/aly.erdogp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
   </a>
   <a href="https://twitter.com/aliyenur_erdogu" target="_blank">
