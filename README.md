@@ -3,7 +3,7 @@
 **🎓 Computer Engineer**  
 🌍 Based in **Isparta, Turkey**  
 📫 Reach me at:  
-- 📧 [aliyenurerdogu2001@gmail.com](mailto:aliyenurerdogu2001@gmail.com)
+📧 [aliyenurerdogu2001@gmail.com](mailto:aliyenurerdogu2001@gmail.com)
 
 ---
 
@@ -62,6 +62,7 @@
 ## ☕ Support Me
 
 If you enjoy my work, consider buying me a coffee!
+<br>
 <br>
 <a href="https://www.buymeacoffee.com/aliyenur" target="_blank">
   <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" style="border-radius: 15px;"/>
