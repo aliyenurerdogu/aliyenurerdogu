@@ -41,7 +41,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" />
   </a>
   <a href="https://www.instagram.com/aly.erdogp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30" />
   </a>
   <a href="https://twitter.com/aliyenur_erdogu" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" />
