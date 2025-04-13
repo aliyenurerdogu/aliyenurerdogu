@@ -61,6 +61,8 @@
 
 ## ☕ Support Me
 
-If you enjoy my work, consider buying me a coffee!  
+If you enjoy my work, consider buying me a coffee!
+<a href="https://www.buymeacoffee.com/aliyenur" target="_blank">
+  <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
+</a>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aliyenur)
