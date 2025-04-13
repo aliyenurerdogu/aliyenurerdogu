@@ -2,8 +2,7 @@
 
 **🎓 Computer Engineer**  
 🌍 Based in **Isparta, Turkey**  
-📫 Reach me at:  
-📧 [aliyenurerdogu2001@gmail.com](mailto:aliyenurerdogu2001@gmail.com)
+📫 Reach me at: [aliyenurerdogu2001@gmail.com](mailto:aliyenurerdogu2001@gmail.com)
 
 ---
 
