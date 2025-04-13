@@ -1,12 +1,16 @@
-# 👋 Hi, I'm Aliyenur Erdoğu
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Aliyenur Erdoğu
 
-**Computer Engineer** 
+**🎓 Computer Engineer**  
 🌍 Based in **Isparta, Turkey**  
-✉️ Reach me at:  
-- 📧aliyenurerdogu2001@gmail.com  
+📫 Reach me at:  
+- 📧 aliye​nurerdogu2001@gmail.com  
 
+---
 
-🧠 Currently learning: **Flutter**, **TypeScript**, **JavaScript**
+### 🧠 Currently Learning
+- Flutter
+- TypeScript
+- JavaScript
 
 ---
 
@@ -24,20 +28,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
 </p>
 
-
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliyenurerdogu/)  
-[![Personal Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/aliyenurerdogu) <!-- Kendi web siten veya GitHub sayfan varsa güncelleyebilirim -->
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/aliyenurerdogu)
 
 ---
 
 ## ☕ Support Me
 
-If you like my work, consider buying me a coffee!  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/) <!-- Link eklersen özelleştirebilirim -->
+If you enjoy my work, consider buying me a coffee!  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aliyenur)
 
 ---
-
