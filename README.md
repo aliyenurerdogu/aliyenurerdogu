@@ -35,16 +35,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aliyenurerdogu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" />
   </a>
   <a href="https://github.com/aliyenurerdogu" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" />
   </a>
-  <a href="https://www.instagram.com/kullaniciadiniz" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="30" />
+  <a href="https://www.instagram.com/aly.erdogp" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="32" />
   </a>
-  <a href="https://twitter.com/kullaniciadiniz" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="30" />
+  <a href="https://twitter.com/aliyenur_erdogu" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="32" />
   </a>
 </p>
 
